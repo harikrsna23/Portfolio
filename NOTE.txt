@@ -1,0 +1,23 @@
+1. Index.html and style.css donhi eka folder madhe thev (Harikrishna_Portfolio)
+
+2. resume.pdf assets navacha folder madhe
+
+3. tyat mi tuza photo nahi add kela ahe to aadhi html madhe index.html madhe declare kar ani to photo assets folder madje thev, ani tyacha same path html file madhe de.
+
+4. Ani baki je kahi karaycha ahe te index.html file madhe.
+
+5. Kahi colour changes font changes astil tar te style.css file madhe.
+
+6. File run karnyasathi index.html open kar fakt double click karun normal folder madhun open kar. vs code madhun nahi.
+
+7. Html madhe kelele changes refresh karnyasathi ctrl+shift+r ekatra dabaycha,
+    Normal refresh kela tari chalel pan he hard refresh asta, bara asta.
+
+8. Ctrl+shift+i console open karnar tya html page sathi, jar kahi error asla tar to tikde disnaar.
+
+9. Html file madhe changes zale ki ekda jaun fakt index.html refresh kar hard refresh, Mhanje cache pan clean honar ani output barobar disnaar.
+
+10. Tyaplikade kahi lagla ch tar w3 schools aahe ch.
+
+
+HAPPY CODING..!!! 
